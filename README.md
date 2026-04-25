@@ -4,9 +4,9 @@
   <h1>Hi there, I'm <span style="color:#00ff9d;"> Kartik Dave </span> 👋</h1>
   <h3>🔐 Aspiring Cybersecurity Professional | Penetration Testing Enthusiast | Passionate Coder</h3>
   
-  [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Kartik-git00)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  <!--[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9C27B0?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/yourid)
+  [![GitHub Followers](https://img.shields.io/github/followers/Kartik-git00?label=Follow&style=social)](https://github.com/Kartik-git00)
+  <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9C27B0?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/yourid)
   [![Twitter/X](https://img.shields.io/badge/Twitter-@yourhandle-black?style=flat&logo=x)](https://twitter.com/yourhandle)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-FF6B6B?style=flat&logo=tryhackme)](https://tryhackme.com/p/yourusername) -->
 </div>
