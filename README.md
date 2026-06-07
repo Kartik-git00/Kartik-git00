@@ -85,7 +85,7 @@ I break things ethically to make them stronger. Currently focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-git00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  https://github-readme-stats.vercel.app/api?username=Kartik-git00&show_icons=true&theme=tokyonight&cache_seconds=86400
 </p>
 
 <p align="center">
