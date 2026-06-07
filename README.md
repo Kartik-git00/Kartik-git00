@@ -82,12 +82,12 @@ I break things ethically to make them stronger. Currently focused on:
 
 ---
 -->
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-git00&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-git00&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartik-git00&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Kartik-git00&theme=radical&hide_border=true" />
+</p>
 
 ---
 <!--
