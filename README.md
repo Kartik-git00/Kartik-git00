@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-%23000000.svg?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity Enthusiast" />
   <h1>Hi there, I'm <span style="color:#00ff9d;"> Kartik Dave </span> 👋</h1>
-  <h3>🔐 Aspiring Cybersecurity Professional | Penetration Testing Enthusiast | Passionate Coder</h3>
+  <h3>🔐 Aspiring Cybersecurity Professional | Passionate Coder</h3>
   
   [![GitHub Followers](https://img.shields.io/github/followers/Kartik-git00?label=Follow&style=social)](https://github.com/Kartik-git00)
   <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
