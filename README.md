@@ -90,7 +90,7 @@ I break things ethically to make them stronger. Currently focused on:
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-git00&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-git00&layout=compact&theme=radical&hide_border=true"  />
 
 </div>
 
