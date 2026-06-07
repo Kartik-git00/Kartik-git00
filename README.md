@@ -85,8 +85,11 @@ I break things ethically to make them stronger. Currently focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartik-git00&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Kartik-git00&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik-git00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kartik-git00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
