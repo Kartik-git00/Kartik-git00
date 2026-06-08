@@ -5,7 +5,7 @@
   <h3>🔐 Aspiring Cybersecurity Professional | Passionate Coder</h3>
   
   [![GitHub Followers](https://img.shields.io/github/followers/Kartik-git00?label=Follow&style=social)](https://github.com/Kartik-git00)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/kartik-cyber00)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kartik-cyber00)
  <!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9C27B0?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/yourid)
   [![Twitter/X](https://img.shields.io/badge/Twitter-@yourhandle-black?style=flat&logo=x)](https://twitter.com/yourhandle)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-FF6B6B?style=flat&logo=tryhackme)](https://tryhackme.com/p/yourusername) -->
