@@ -79,10 +79,12 @@
 
 ---
 -->
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kartik-git00&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+
+<img src="https://streak-stats.demolab.com?user=Kartik-git00&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
