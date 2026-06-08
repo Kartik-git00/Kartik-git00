@@ -27,7 +27,7 @@
 
 - 🌍 Based in Ahmedabad, Gujarat, India
 - 📫 Reach me: [LinkedIn](www.linkedin.com/in/kartik-cyber00)
--->
+
 ---
 <!--
 ### 🛠️ Skills & Tools
