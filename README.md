@@ -5,8 +5,8 @@
   <h3>🔐 Aspiring Cybersecurity Professional | Passionate Coder</h3>
   
   [![GitHub Followers](https://img.shields.io/github/followers/Kartik-git00?label=Follow&style=social)](https://github.com/Kartik-git00)
-  <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9C27B0?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/yourid)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/kartik-cyber00)
+ <!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9C27B0?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/yourid)
   [![Twitter/X](https://img.shields.io/badge/Twitter-@yourhandle-black?style=flat&logo=x)](https://twitter.com/yourhandle)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-FF6B6B?style=flat&logo=tryhackme)](https://tryhackme.com/p/yourusername) -->
 </div>
@@ -14,27 +14,24 @@
 ---
 
 ### 🛡️ About Me
-<!--
-I'm a passionate cybersecurity professional with expertise in **offensive security**, **vulnerability assessment**, and **incident response**. 
 
-I break things ethically to make them stronger. Currently focused on:
-- Web & API penetration testing
-- Red team operations
-- Cloud security (AWS/Azure)
-- Malware analysis & reverse engineering
+ Aspiring cybersecurity professional currently focused on
+- Linux
+- Networking
+- CyberSecurity Fundamentals
+- Python Programming
+ Building a strong foundation through hands-on labs, projects, and continuous learning while following a structured ethical hacking roadmap.
 -->
 
-> "The best defense is a good offense — and a well-documented report."
-<!--
+>
+
 - 🌍 Based in Ahmedabad, Gujarat, India
-- 🔭 Currently working on [your current project or "advanced red team tooling"]
-- 🌱 Learning: [e.g., Advanced Evasion Techniques, Zero-Trust Architecture, or AI-powered threat detection]
-- 📫 Reach me: `your.email@domain.com` or on [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/kartik-cyber00)
 -->
 ---
-
-### 🛠️ Skills & Tools
 <!--
+### 🛠️ Skills & Tools
+
 #### Offensive Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
@@ -82,7 +79,7 @@ I break things ethically to make them stronger. Currently focused on:
 
 ---
 -->
-<!--### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kartik-git00&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
