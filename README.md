@@ -82,7 +82,7 @@ I break things ethically to make them stronger. Currently focused on:
 
 ---
 -->
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kartik-git00&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
