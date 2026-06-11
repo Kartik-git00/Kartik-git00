@@ -20,8 +20,8 @@
 - Networking
 - CyberSecurity Fundamentals
 - Python Programming
- Building a strong foundation through hands-on labs, projects, and continuous learning while following a structured ethical hacking roadmap.
--->
+
+Building a strong foundation through hands-on labs, projects, and continuous learning while following a structured ethical hacking roadmap.
 
 >
 
