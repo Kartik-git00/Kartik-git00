@@ -101,3 +101,15 @@ Feel free to reach out — even if it's just to say hi or share a cool exploit! 
 
 ---
 -->
+
+
+## 🧭 Learning portfolio
+
+| Repository | Focus |
+| --- | --- |
+| [Linux fundamentals](https://github.com/Kartik-git00/linux-fundamentals) | Linux notes, exercises and historical lab material |
+| [Networking](https://github.com/Kartik-git00/Networking) | Network fundamentals and diagrams |
+| [Bash scripting](https://github.com/Kartik-git00/Bash-Scripting) | Scripts and synthetic-data practice |
+| [Skill-Build](https://github.com/Kartik-git00/Skill-Build) | Flask/Supabase learning application |
+
+I am organizing learning around authorized labs, clear explanations, original code and sanitized evidence. Repository content and teaching references do not imply completion of new labs, certifications or client engagements.
