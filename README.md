@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Kartik 👋</h1>
 <p align="center">
-  <strong>Aspiring cybersecurity professional · Programmer · Hands-on learner</strong><br />
+  <strong>Cybersecurity student · Offensive security learner · AI &amp; web builder</strong><br />
   Online as <code>BL4CK0UTS3C</code>
 </p>
 
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About me
 
-I'm an **aspiring cybersecurity professional and programmer**, building my foundation through Linux, networking, scripting, and hands-on security labs. I use this GitHub profile to share the technical side of that journey: what I'm learning, what I'm practicing, and what I'm building.
+I'm a **cybersecurity student and aspiring security professional**, with a strong interest in **offensive security and penetration testing**. I'm building my foundation through Linux, networking, scripting, and hands-on security labs. I use this GitHub profile to share the technical side of that journey: what I'm learning, what I'm practicing, and what I'm building.
 
 ### Systems first
 
-My security learning starts with understanding how a system behaves. In Linux, that means working with files, permissions, users, processes, services, logs, and SSH. In networking, it means connecting concepts such as TCP/IP, DNS, DHCP, and NAT to the way devices communicate. My public notes and lab repositories help me organize these fundamentals and revisit them as I progress.
+I'm an engineering student focused on developing practical cybersecurity skills. My security learning starts with understanding how a system behaves. In Linux, that means working with files, permissions, users, processes, services, logs, and SSH. In networking, it means connecting concepts such as TCP/IP, DNS, DHCP, and NAT to the way devices communicate. My public notes and lab repositories help me organize these fundamentals and revisit them as I progress.
 
 ### Code as a practical tool
 
@@ -31,7 +31,13 @@ I work with **Python and Bash** while developing my programming and scripting sk
 
 ### Security through practice
 
-I practice on **TryHackMe and Hack The Box** as **BL4CK0UTS3C**, connecting foundational knowledge to guided exercises and challenges. My interests include ethical hacking, Linux security, network security, and understanding how applications work. I aim to develop the ability to explain a problem, investigate it methodically, and communicate what I learn.
+I practice on **TryHackMe and Hack The Box** as **BL4CK0UTS3C**, connecting foundational knowledge to guided exercises and challenges. My interests include ethical hacking, penetration testing, Linux and Windows fundamentals, network security, and understanding how applications work. I use TCM Security's ethical hacking roadmap to guide my foundational learning. I aim to develop the ability to explain a problem, investigate it methodically, and communicate what I learn.
+
+### Exploring AI through real projects
+
+Alongside cybersecurity, I explore **generative AI, web development, and prompt engineering**. During the **AMD Developer Hackathon: ACT II**, I worked with a team on **TeamDiscovery**, an AI video captioning app that produces four caption styles from one short video. We used React, Supabase, Groq, Fireworks AI, and DeepSeek to connect the application and its AI pipeline.
+
+I also contributed to **Thunder Beats** for the **Google Gemini Battle of the Bands** challenge, using Nano Banana for poster creation and Lyria for music generation. These projects gave me practical experience combining tools, experimenting with ideas, and contributing to a team.
 
 ### What you'll find here
 
@@ -50,13 +56,14 @@ I practice on **TryHackMe and Hack The Box** as **BL4CK0UTS3C**, connecting foun
 
 | Focus | What I'm exploring |
 | :--- | :--- |
-| **Linux & systems** | Users, permissions, processes, services, logs, SSH, and command-line workflows |
+| **Operating systems** | Linux and Windows fundamentals; users, permissions, processes, services, logs, SSH, and command-line workflows |
 | **Networking** | TCP/IP, OSI, IP addressing, DNS, DHCP, NAT, and how traffic moves |
 | **Scripting** | Bash practice and Python programming for problem solving and automation |
 | **Security practice** | Cybersecurity fundamentals and ethical hacking through TryHackMe and Hack The Box |
-| **Building applications** | A learning platform combining Flask, web technologies, and data analysis |
+| **Building applications** | Flask applications, learning platforms, and integrating AI services into web experiences |
+| **Creative AI** | Prompt engineering, AI visuals, and music generation |
 
-**Interests:** ethical hacking, system security, network security, automation, and learning by building.
+**Interests:** offensive security · penetration testing · system and network security · scripting and automation · generative AI · web development.
 
 ## 🧰 Technologies I'm learning & using
 
@@ -69,12 +76,25 @@ I practice on **TryHackMe and Hack The Box** as **BL4CK0UTS3C**, connecting foun
   <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&amp;logo=css&amp;logoColor=663399" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&amp;logo=pandas&amp;logoColor=A8B9FF" alt="Pandas" />
 </p>
 
 <p align="center"><img src="./assets/signal-divider.svg" alt="" width="100%" /></p>
 
 ## 🚀 Projects & learning repositories
+
+### [TeamDiscovery ↗](https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-ii/teamdiscovery)
+A team project built during the **AMD Developer Hackathon: ACT II** on lablab.ai. The web app turns one short video into **four caption styles** for different audiences, connecting multiple AI services in one pipeline.
+
+**Team stack:** React · Supabase · Groq · Fireworks AI · DeepSeek
+
+### Thunder Beats · Creative AI
+My contribution to a team submission for **Google Gemini Battle of the Bands**: a band poster created with **Nano Banana** and a music track generated with **Lyria**. An exploration of prompt engineering, AI visuals, and AI music generation.
+
 
 ### [Skill-Build ↗](https://github.com/Kartik-git00/Skill-Build)
 A learning and resource platform with an initial focus on Computer Science. Includes courses, lessons, quizzes, and progress tracking, with analytics and forecasting features described in the project.
@@ -105,7 +125,24 @@ I practice as **BL4CK0UTS3C** on [TryHackMe](https://tryhackme.com/p/BL4CK0UTS3C
 
 <sub>Milestones verified from my public TryHackMe profile on 20 November 2026. Rankings change; visit the profile for current progress.</sub>
 
-On Hack The Box, my public badges include **Cyber starter**, **Solid basis**, and **Everything is connected**.
+### Hack The Box Academy · completed modules
+
+- **Linux Fundamentals** — command-line practice, system concepts, and hands-on exercises.
+- **Windows Fundamentals** — the operating system, file system, users, permissions, services, and system management.
+- **Network Foundations** — network communication, protocols, and IP addressing.
+- **Introduction to Networking** — continued foundational networking study.
+- **Introduction to Bash Scripting** — variables, loops, conditions, functions, and scripting exercises.
+- **Introduction to Information Security** — security principles, common threats, and protecting systems, networks, and data.
+
+These module completions are documented in my LinkedIn learning updates. My public Hack The Box badges also include **Cyber starter**, **Solid basis**, and **Everything is connected**.
+
+### Learning & event milestones
+
+- **TryHackMe Pre Security** — completed the learning path and earned its certificate.
+- **AMD Developer Hackathon: ACT II** — participated with the TeamDiscovery team.
+- **Google Gemini Battle of the Bands** — contributed AI-generated visuals and music to a team submission.
+
+<sub>These are learning and participation milestones; Academy modules are listed as course completions.</sub>
 
 <details>
 <summary><strong>How I approach learning</strong></summary>
@@ -121,7 +158,7 @@ On Hack The Box, my public badges include **Cyber starter**, **Solid basis**, an
 
 ## 🤝 Let's connect
 
-Interested in cybersecurity, Linux, networking, or building useful tools? Connect with me on [LinkedIn](https://www.linkedin.com/in/kartik-cyber00/) to exchange ideas and learning resources.
+Interested in cybersecurity, offensive security, AI, or building useful tools? Connect with me on [LinkedIn](https://www.linkedin.com/in/kartik-cyber00/) to exchange ideas and learning resources.
 
 <p align="center">
   <strong>Stay curious. Keep practicing. Build in public.</strong><br />
