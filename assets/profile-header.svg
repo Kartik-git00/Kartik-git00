@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Kartik Dave | Cybersecurity and code</title>
+  <title id="title">Kartik | Cybersecurity and code</title>
   <desc id="desc">BL4CK0UTS3C. Learn the system. Understand the network. Build with purpose. An animated network and terminal cursor decorate this banner.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f1d"/><stop offset="1" stop-color="#102b36"/></linearGradient>
@@ -9,7 +9,7 @@
       text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
       .cursor{animation:blink 1.2s steps(2,end) infinite}
       @keyframes blink{50%{opacity:0}}
-      @media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+      @media(prefers-reduced-motion:reduce){.cursor{animation:none}.motion{display:none}}
     </style>
   </defs>
   <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
@@ -18,7 +18,7 @@
   <circle cx="50" cy="53" r="5" fill="#ff6b7a"/><circle cx="70" cy="53" r="5" fill="#ffd166"/><circle cx="90" cy="53" r="5" fill="#b5f36b"/>
   <text x="114" y="58" fill="#8ba4b8" font-size="13" letter-spacing="2">BL4CK0UTS3C / LEARNING IN PUBLIC</text>
   <text x="52" y="116" fill="#b5f36b" font-size="15" letter-spacing="3">CYBERSECURITY · LINUX · CODE</text>
-  <text x="48" y="188" fill="#f1f7fc" font-size="62" font-weight="700" letter-spacing="-2">Kartik Dave<tspan fill="#61e8f0">.</tspan></text>
+  <text x="48" y="188" fill="#f1f7fc" font-size="62" font-weight="700" letter-spacing="-2">Kartik<tspan fill="#61e8f0">.</tspan></text>
   <text x="52" y="230" fill="#a7bdcd" font-size="18">Learn the system. Understand the network.</text>
   <text x="52" y="259" fill="#a7bdcd" font-size="18">Build with purpose.</text>
   <text x="52" y="316" fill="#61e8f0" font-size="15">&gt; learning by doing</text>
@@ -26,13 +26,17 @@
   <g transform="translate(905 185)" fill="none">
     <circle r="104" stroke="#61e8f0" stroke-opacity=".15"/>
     <circle r="73" stroke="#61e8f0" stroke-opacity=".2" stroke-dasharray="4 9"/>
+    <g class="motion"><circle r="87" stroke="#61e8f0" stroke-width="2" stroke-dasharray="65 482" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle></g>
+    <circle class="motion" r="48" stroke="#b5f36b" stroke-opacity=".45"><animate attributeName="r" values="48;65;48" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;.1;.7" dur="5s" repeatCount="indefinite"/></circle>
     <path d="M0-104L90-52V52L0 104-90 52V-52Z M0-104V104 M-90-52L90 52 M90-52L-90 52" stroke="#61e8f0" stroke-opacity=".24"/>
     <path d="M0-43L37-22V22L0 43-37 22V-22Z" fill="#112d36" stroke="#b5f36b" stroke-width="2"/>
     <path d="M-14 0L-4 10 17-12" stroke="#b5f36b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <g fill="#61e8f0"><circle cy="-104" r="5"/><circle cx="90" cy="-52" r="5"/><circle cx="90" cy="52" r="5"/><circle cy="104" r="5"/><circle cx="-90" cy="52" r="5"/><circle cx="-90" cy="-52" r="5"/></g>
-    <circle r="7" fill="#b5f36b">
+    <circle class="motion" r="7" fill="#b5f36b">
       <animateMotion dur="9s" repeatCount="indefinite" path="M0-104L90-52V52L0 104-90 52V-52Z"/>
     </circle>
   </g>
-  <text x="810" y="319" fill="#8ba4b8" font-size="12" letter-spacing="2">GUJARAT, INDIA</text>
+  <text x="780" y="319" fill="#8ba4b8" font-size="12" letter-spacing="2">LEARN / PRACTICE / BUILD</text>
 </svg>

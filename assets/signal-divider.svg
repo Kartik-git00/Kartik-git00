@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" role="img" aria-label="Decorative animated network signal">
+<defs><linearGradient id="line"><stop stop-color="#61e8f0" stop-opacity="0"/><stop offset=".5" stop-color="#61e8f0" stop-opacity=".5"/><stop offset="1" stop-color="#b5f36b" stop-opacity="0"/></linearGradient>
+<style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style></defs>
+<path d="M0 14H1000" stroke="url(#line)"/>
+<g fill="#61e8f0"><circle cx="250" cy="14" r="2"/><circle cx="500" cy="14" r="3"/><circle cx="750" cy="14" r="2"/></g>
+<circle class="motion" cy="14" r="3" fill="#b5f36b"><animate attributeName="cx" values="20;980;20" dur="16s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Learning console</title>
+<desc id="desc">An animated illustration of my learning focus: Linux and networking, Python and Bash, security labs, and building useful applications. Decorative console, not live system output.</desc>
+<defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+.cursor{animation:blink 1.6s steps(2,end) infinite}
+@keyframes blink{50%{opacity:0}}
+.static{display:none}
+@media(prefers-reduced-motion:reduce){.motion{display:none}.static{display:inline}.cursor{animation:none}}
+</style>
+<clipPath id="line1"><rect x="40" y="70" width="890" height="31"><animate attributeName="width" values="0;890;890;890;0" keyTimes="0;.18;.85;.99;1" dur="18s" calcMode="linear" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="line2"><rect x="40" y="116" width="890" height="31"><animate attributeName="width" values="0;0;890;890;0" keyTimes="0;.2;.38;.99;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="line3"><rect x="40" y="162" width="890" height="31"><animate attributeName="width" values="0;0;890;890;0" keyTimes="0;.4;.58;.99;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="line4"><rect x="40" y="208" width="890" height="31"><animate attributeName="width" values="0;0;890;890;0" keyTimes="0;.6;.78;.99;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<g id="row1"><text x="40" y="94" fill="#b5f36b" font-size="19">&gt; understand the system<tspan fill="#9bb2c4">  // Linux + networking</tspan></text></g>
+<g id="row2"><text x="40" y="140" fill="#61e8f0" font-size="19">&gt; automate the repetitive<tspan fill="#9bb2c4">  // Python + Bash</tspan></text></g>
+<g id="row3"><text x="40" y="186" fill="#b5f36b" font-size="19">&gt; practice with purpose<tspan fill="#9bb2c4">  // security labs</tspan></text></g>
+<g id="row4"><text x="40" y="232" fill="#61e8f0" font-size="19">&gt; turn knowledge into tools<tspan fill="#9bb2c4">  // build + document</tspan></text></g>
+</defs>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="#0b1522" stroke="#254151"/>
+<path d="M1 49H999" stroke="#254151"/>
+<circle cx="27" cy="25" r="5" fill="#ff6b7a"/><circle cx="47" cy="25" r="5" fill="#ffd166"/><circle cx="67" cy="25" r="5" fill="#b5f36b"/>
+<text x="95" y="30" fill="#9bb2c4" font-size="13" letter-spacing="2">BL4CK0UTS3C / LEARNING CONSOLE</text>
+<g class="motion"><use href="#row1" clip-path="url(#line1)"/><use href="#row2" clip-path="url(#line2)"/><use href="#row3" clip-path="url(#line3)"/><use href="#row4" clip-path="url(#line4)"/></g>
+<g class="static"><use href="#row1"/><use href="#row2"/><use href="#row3"/><use href="#row4"/></g>
+<text x="40" y="275" fill="#6d879b" font-size="12" letter-spacing="2">CURIOSITY → PRACTICE → UNDERSTANDING</text>
+<rect class="cursor" x="938" y="255" width="9" height="17" fill="#b5f36b"/>
+</svg>

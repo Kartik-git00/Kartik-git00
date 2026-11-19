@@ -1,12 +1,12 @@
 <!-- Personal profile: keep claims grounded in public repositories and learning profiles. -->
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Kartik Dave — cybersecurity, Linux and code. Learning in public as BL4CK0UTS3C." width="100%" />
+  <img src="./assets/profile-header.svg" alt="Kartik — cybersecurity, Linux and code. Learning in public as BL4CK0UTS3C." width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Kartik Dave 👋</h1>
+<h1 align="center">Hi, I'm Kartik 👋</h1>
 <p align="center">
   <strong>Aspiring cybersecurity professional · Programmer · Hands-on learner</strong><br />
-  Gujarat, India &nbsp; / &nbsp; Online as <code>BL4CK0UTS3C</code>
+  Online as <code>BL4CK0UTS3C</code>
 </p>
 
 <p align="center">
@@ -15,15 +15,36 @@
   <a href="https://profile.hackthebox.com/profile/019ea097-ae20-71cc-9788-826a48f57d0d"><img src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00" alt="BL4CK0UTS3C on Hack The Box" /></a>
 </p>
 
----
+<p align="center"><img src="./assets/signal-divider.svg" alt="" width="100%" /></p>
 
 ## 👨‍💻 About me
 
-I'm building a career in **cybersecurity**, starting with a strong understanding of the systems and networks behind it. My learning combines Linux labs, networking concepts, scripting, and hands-on security practice.
+I'm an **aspiring cybersecurity professional and programmer**, building my foundation through Linux, networking, scripting, and hands-on security labs. I use this GitHub profile to share the technical side of that journey: what I'm learning, what I'm practicing, and what I'm building.
 
-I enjoy working at the command line, understanding how things work beneath the surface, and turning what I learn into useful notes and projects. Alongside security, I build with **Python and Flask** and explore how web development and data analysis can support practical applications.
+### Systems first
+
+My security learning starts with understanding how a system behaves. In Linux, that means working with files, permissions, users, processes, services, logs, and SSH. In networking, it means connecting concepts such as TCP/IP, DNS, DHCP, and NAT to the way devices communicate. My public notes and lab repositories help me organize these fundamentals and revisit them as I progress.
+
+### Code as a practical tool
+
+I work with **Python and Bash** while developing my programming and scripting skills. I'm interested in using code to make repetitive tasks easier and to turn a concept into something I can test. My **Skill-Build** project extends that interest into web development with Flask, a browser-based interface, learning resources, quizzes, and progress tracking.
+
+### Security through practice
+
+I practice on **TryHackMe and Hack The Box** as **BL4CK0UTS3C**, connecting foundational knowledge to guided exercises and challenges. My interests include ethical hacking, Linux security, network security, and understanding how applications work. I aim to develop the ability to explain a problem, investigate it methodically, and communicate what I learn.
+
+### What you'll find here
+
+- **Learning notes** that turn technical topics into references I can reuse.
+- **Labs and exercises** that connect theory to practical system behavior.
+- **Scripting practice** as I grow my Python and Bash skills.
+- **Application projects** where I explore web development and data analysis.
 
 > **My approach:** learn the fundamentals → practice in labs → document the process → build something useful.
+
+<p align="center">
+  <img src="./assets/learning-console.svg" alt="Learning focus: understand Linux and networks, practice Python and Bash, explore security labs, build and document useful tools." width="100%" />
+</p>
 
 ## 🎯 What I'm working on
 
@@ -50,6 +71,8 @@ I enjoy working at the command line, understanding how things work beneath the s
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&amp;logo=pandas&amp;logoColor=A8B9FF" alt="Pandas" />
 </p>
+
+<p align="center"><img src="./assets/signal-divider.svg" alt="" width="100%" /></p>
 
 ## 🚀 Projects & learning repositories
 
@@ -94,7 +117,7 @@ On Hack The Box, my public badges include **Cyber starter**, **Solid basis**, an
 
 </details>
 
----
+<p align="center"><img src="./assets/signal-divider.svg" alt="" width="100%" /></p>
 
 ## 🤝 Let's connect
 
@@ -102,5 +125,5 @@ Interested in cybersecurity, Linux, networking, or building useful tools? Connec
 
 <p align="center">
   <strong>Stay curious. Keep practicing. Build in public.</strong><br />
-  <sub>Kartik Dave · BL4CK0UTS3C</sub>
+  <sub>Kartik · BL4CK0UTS3C</sub>
 </p>
